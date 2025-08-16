@@ -61,11 +61,6 @@ Identificar los factores que influyen en el abandono de clientes (Churn) en Tele
 
 3. **Clientes con fibra óptica** tienen 42% más probabilidad de abandonar
 
-## 📈 Visualizaciones Clave
-
-![Churn por Tipo de Contrato](visuals/churn_by_contract.png)  
-*Tasa de abandono por tipo de contrato*
-
 ## 📄 Informe Completo
 
 El notebook incluye un informe detallado con:
@@ -90,6 +85,4 @@ El notebook incluye un informe detallado con:
 **Sebastián Urrego**  
 📫 GitHub: [@Sebas1020h](https://github.com/Sebas1020h)
 
----
 ⭐ Si este proyecto te resulta útil, ¡por favor déjanos una estrella!
-``` 
